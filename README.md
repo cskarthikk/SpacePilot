@@ -23,7 +23,6 @@ Setting up the boost was also tricky. I had to work hard to make it look and fee
 Adding features like shooting and keeping track of lives also took time. I had to make sure all parts of the game worked well together without bugs.
 
 ## Credits
-Game Design & Development: Surya Karthik
 Art & Animation design: Tarun(my cousin)
 
 
