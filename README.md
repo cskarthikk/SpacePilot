@@ -22,8 +22,6 @@ One big challenge was getting the space rover's up and down movement animations 
 Setting up the boost was also tricky. I had to work hard to make it look and feel right. Placing the asteroids in the right spots was difficult too—I had to make sure they made the game fun and challenging without being too hard.
 Adding features like shooting and keeping track of lives also took time. I had to make sure all parts of the game worked well together without bugs.
 
-## Credits
-Art & Animation design: Tarun(my cousin)
 
 
 
